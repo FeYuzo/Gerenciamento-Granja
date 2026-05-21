@@ -66,5 +66,4 @@ Um sistema moderno e intuitivo desenvolvido em Python para o controle total de u
 
 - **FeYuzo** - [GitHub](https://github.com/FeYuzo)
 
----
-⌨️ com ❤️ por [Gemini CLI]
+
